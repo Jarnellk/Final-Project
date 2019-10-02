@@ -1,6 +1,6 @@
 # Final-Project
 
-## What
+## What is it
 
 ## Purpose
 
